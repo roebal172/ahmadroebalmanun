@@ -3,3 +3,7 @@ Ini adalah daftar keinginan saya
 -b
 -c
 -d
+-e
+-f
+-g
+-h
